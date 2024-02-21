@@ -1,0 +1,30 @@
+{
+  "tasks": [
+    {
+      "id": "062cdf65-1eb3-44d9-b734-d17203df7d6d",
+      "text": "Learn Programming"
+    },
+    {
+      "id": "75c2c097-277c-4798-9d86-feaa94b27d4b",
+      "text": "Finish Edting and Programming"
+    },
+    {
+      "id": "f8708aa4-657d-4d34-9030-95233e20e0b4",
+      "text": "Type here"
+    },
+    {
+      "id": "9df816a0-f039-41ea-98b0-38a7670a8ca9",
+      "text": "Coba 1"
+    }
+  ],
+  "coba": [
+    {
+      "id": "1",
+      "nama": "evan"
+    },
+    {
+      "id": "2",
+      "nama": "raifan"
+    }
+  ]
+}
